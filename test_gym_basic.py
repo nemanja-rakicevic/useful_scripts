@@ -2,6 +2,7 @@
 
 import argparse
 import gym
+gym.logger.set_level(40)
 
 
 parser = argparse.ArgumentParser(formatter_class=argparse.RawTextHelpFormatter)
