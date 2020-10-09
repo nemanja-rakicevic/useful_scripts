@@ -1,4 +1,4 @@
-# Sseful scripts
+# Useful scripts
 
 Some scripts I find useful (mostly for testing) and need to have them in one place.
 
